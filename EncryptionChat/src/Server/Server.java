@@ -66,7 +66,7 @@ public class Server extends javax.swing.JFrame implements Runnable {
         jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Server..made by Amn El DAwla");
+        setTitle("Secured Server");
         getContentPane().setLayout(null);
 
         jScrollPane2.setViewportView(jNameList);
